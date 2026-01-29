@@ -6,8 +6,8 @@ __pycache__/
 *.__pyc  
 
 #data mentah
-data/*.csv
-data/*.xlsx
+# data/*.csv
+# data/*.xlsx
 
 #file model yang ukurannya besar
 models/*.pkl

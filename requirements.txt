@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+flask
+langchain
+langchain-community
+sentence-transformers
+ollama
+python-dotenv
